@@ -64,8 +64,12 @@ body{
 }
 
 .quote{
-	padding-left: 40px;
+	padding-left: 20px;
 	font-style: italic;
+	border-left: 2px dashed #0F6C59;
+    	margin: 40px 0px;
+    	font-weight: bold;
+    	text-align: left;
 }
 .post{
 	width: 620px;
