@@ -8,9 +8,6 @@ a{
 	color: #0F6C59;
 	text-decoration: none;
 }
-p{
-	margin-top: 40px;
-}
 .logo{
 	color: #3B3E4C;
 	width: 200px;
@@ -72,6 +69,8 @@ body{
     	text-align: left;
 	font-size: 20px;
 }
+p{margin-top: 40px}
+
 .post{
 	width: 620px;
 	padding-bottom:40px;
@@ -89,7 +88,7 @@ h1{
 	font-family: 'Lora';
 }
 h2{
-	font-weight: bold;
+	font-weight: ;
 	font-size: 14px;
 	text-transform: uppercase;
 }
