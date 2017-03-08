@@ -11,7 +11,7 @@ a{
 .logo{
 	color: #3B3E4C;
 	width: 200px;
-	font-size: 15px;
+	font-size: 18px;
 	text-align: left;
 	font-style: italic;
 	font-family: 'Lora';
@@ -26,6 +26,7 @@ a{
 	text-align: right;
 	display: inline-block;
 	float: right;
+	font-family: 'Montserrat', sans-serif;
 }
 .nav li{
 	display: inline;
