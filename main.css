@@ -11,13 +11,6 @@ a{
 p{
 	margin-top: 40px;
 }
-h1{
-	color: #0F6C59;
-	font-size: 20px;
-}
-h2{
-	font-weight: bold;
-}
 .logo{
 	color: #3B3E4C;
 	width: 200px;
@@ -46,7 +39,7 @@ h2{
 }
 body{
 	background-color: #EEFFFA;
-	font-family: 'Lora', serif;
+	font-family: 'Montserrat', serif;
 	font-size: 16px;
 	margin: 40px;
 }
@@ -73,13 +66,15 @@ body{
 	padding-left: 20px;
 	font-style: italic;
 	border-left: 2px dashed #0F6C59;
+	font-family: 'Lora', serif;
     	margin: 40px 0px;
     	font-weight: bold;
     	text-align: left;
+	font-size: 20px;
 }
 .post{
 	width: 620px;
-	padding: 40px 0 40px 0;
+	padding-bottom:40px;
 	margin: 20px auto 0 auto;
 	line-height: 2;
 }
@@ -87,4 +82,14 @@ body{
 	border-bottom: 1px dotted #0F6C59;
 	margin-top: 80px;
 	margin-bottom: 80px;
+}
+h1{
+	color: #0F6C59;
+	font-size: 20px;
+	font-family: 'Lora';
+}
+h2{
+	font-weight: bold;
+	font-size: 14px;
+	text-transform: uppercase;
 }
