@@ -8,9 +8,15 @@ a{
 	color: #0F6C59;
 	text-decoration: none;
 }
+p{
+	margin-top: 40px;
+}
 h1{
 	color: #0F6C59;
 	font-size: 20px;
+}
+h2{
+	font-weight: bold;
 }
 .logo{
 	color: #3B3E4C;
