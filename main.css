@@ -17,7 +17,7 @@ a{
 	font-family: 'Lora';
 	display: inline-block;
 	margin-top: 10px;
-
+	padding-left: 40px;
 }
 .nav{
 	text-transform: lowercase;
@@ -59,6 +59,7 @@ body{
 	padding: 1px 10px;
 	text-align: center;
 	margin: 0 auto 0 auto;
+	font-weight: bold;
 }
 
 .quote{
@@ -91,6 +92,7 @@ h1{
 	display: block;
 	text-transform: capitalize;
 	text-align: center;
+	padding: 20px 0 0 0;
 }
 h2{
 	font-family: 'Montserrat', sans-serif;
