@@ -5,8 +5,7 @@ html, body, ol, ul, a{
 }
 
 a{
-	color: #0F6C59;
-	text-decoration: none;
+	color: #666666;
 }
 .logo{
 	color: #3B3E4C;
@@ -20,9 +19,9 @@ a{
 
 }
 .nav{
-	text-transform: uppercase;
+	text-transform: lowercase;
 	margin: 35px 20px;
-	padding: 10px;
+	padding: 10px 40px;
 	text-align: right;
 	display: inline-block;
 	float: right;
@@ -36,8 +35,8 @@ a{
 
 }
 body{
-	background-color: #EEFFFA;
-	font-family: 'Montserrat', sans-serif;
+	background-color: #fff;
+	font-family: 'Lora', sans-serif;
 	font-size: 16px;
 	margin: 40px;
 }
@@ -54,21 +53,21 @@ body{
 }
 .day{
 	width: 12px;
-	border: 2px solid #0F6C59;
-	display: inline-block;
+	border: 2px solid cornflowerblue;
+	display: block;
 	padding: 1px 10px;
 	text-align: center;
+	margin: 0 auto 0 auto;
 }
 
 .quote{
 	padding-left: 20px;
-	font-style: italic;
-	border-left: 2px dashed #0F6C59;
-	font-family: 'Lora', serif;
+	font-family: 'Montserrat', serif;
     	margin: 40px 0px;
-    	font-weight: bold;
-    	text-align: left;
-	font-size: 20px;
+    	text-align: center;
+	color: cornflowerblue;
+	font-size: 16px;
+	line-height: 1.8;
 }
 p{
 	margin-top: 40px;
@@ -86,12 +85,15 @@ p{
 	margin-bottom: 80px;
 }
 h1{
-	color: #0F6C59;
-	font-size: 20px;
-	font-family: 'Lora';
+	color: black;
+	font-size: 17px;
+	font-family: 'Montserrat';
+	display: block;
+	text-transform: capitalize;
+	text-align: center;
 }
 h2{
 	font-family: 'Montserrat', sans-serif;
 	font-size: 14px;
-	text-transform: uppercase;
+	text-transform: capitalize;
 }
