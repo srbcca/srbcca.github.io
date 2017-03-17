@@ -6,6 +6,7 @@ html, body, ol, ul, a{
 
 a{
 	color: #666666;
+	text-decoration: none;
 }
 .logo{
 	color: #3B3E4C;
@@ -16,7 +17,6 @@ a{
 	font-family: 'Lora';
 	display: inline-block;
 	margin-top: 10px;
-	text-decoration: none;
 
 }
 .nav{
@@ -27,7 +27,6 @@ a{
 	display: inline-block;
 	float: right;
 	font-family: 'Montserrat', sans-serif;
-	text-decoration: none;
 }
 .nav li{
 	display: inline;
@@ -63,7 +62,6 @@ body{
 }
 
 .quote{
-	padding-left: 20px;
 	font-family: 'Montserrat', serif;
     	margin: 40px 0px;
     	text-align: center;
